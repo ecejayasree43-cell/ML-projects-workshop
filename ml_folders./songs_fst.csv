@@ -1,0 +1,93 @@
+song_title,movie,composer,mood,energy_level,language,year,file_name
+Raja Raja Cholan,Rettai Vaal Kuruvi,Ilaiyaraaja,Romantic,Medium,Tamil,1987,raja_raja_cholan.mp3
+Thendral Vandhu Ennai Thodum,Avatharam,Ilaiyaraaja,Romantic,Low,Tamil,1995,thendral_vandhu_ennai_thodum.mp3
+Ilaya Nila,Payanangal Mudivathillai,Ilaiyaraaja,Soothing,Low,Tamil,1982,ilaya_nila.mp3
+Poove Sempoove,Solla Thudikuthu Manasu,Ilaiyaraaja,Soothing,Low,Tamil,1988,poove_sempoove.mp3
+Sundari Kannal Oru Sethi,Thalapathi,Ilaiyaraaja,Romantic,Medium,Tamil,1991,sundari_kannal_oru_sethi.mp3
+Rakkamma Kaiya Thattu,Thalapathi,Ilaiyaraaja,Energetic,High,Tamil,1991,rakkamma_kaiya_thattu.mp3
+Mandram Vandha,Mouna Ragam,Ilaiyaraaja,Romantic,Low,Tamil,1986,mandram_vandha.mp3
+Oho Megam Vandhatho,Mouna Ragam,Ilaiyaraaja,Cheerful,Medium,Tamil,1986,oho_megam_vandhatho.mp3
+Nila Athu Vanathu Mela,Nayagan,Ilaiyaraaja,Romantic,Medium,Tamil,1987,nila_athu_vanathu_mela.mp3
+Thenpandi Cheemaiyile,Nayagan,Ilaiyaraaja,Nostalgic,Medium,Tamil,1987,thenpandi_cheemaiyile.mp3
+Naan Thedum Sevvandhi Poovidhu,Dharma Pathini,Ilaiyaraaja,Romantic,Low,Tamil,1986,naan_thedum_sevvandhi_poovidhu.mp3
+Kanmani Anbodu Kadhalan,Guna,Ilaiyaraaja,Romantic,Low,Tamil,1991,kanmani_anbodu_kadhalan.mp3
+Paadariyen Padippariyen,Sindhu Bhairavi,Ilaiyaraaja,Soulful,Low,Tamil,1985,paadariyen_padippariyen.mp3
+Enna Satham Indha Neram,Punnagai Mannan,Ilaiyaraaja,Romantic,Medium,Tamil,1986,enna_satham_indha_neram.mp3
+Janani Janani,Thaai Mookaambikai,Ilaiyaraaja,Devotional,Medium,Tamil,1982,janani_janani.mp3
+Aagaya Gangai,Dharma Yuddham,Ilaiyaraaja,Soulful,Low,Tamil,1979,aagaya_gangai.mp3
+Idhu Oru Nilakaalam,Tik Tik Tik,Ilaiyaraaja,Romantic,Low,Tamil,1981,idhu_oru_nilakaalam.mp3
+Kadhal Oviyam Paadum Kaaviyam,Alaigal Oivathillai,Ilaiyaraaja,Romantic,Medium,Tamil,1981,kadhal_oviyam_paadum_kaaviyam.mp3
+Putham Pudhu Kaalai,Alaigal Oivathillai,Ilaiyaraaja,Uplifting,Medium,Tamil,1981,putham_pudhu_kaalai.mp3
+Chinna Chinna Aasai,Roja,A.R. Rahman,Hopeful,Medium,Tamil,1992,chinna_chinna_aasai.mp3
+Kadhal Rojave,Roja,A.R. Rahman,Melancholic,Low,Tamil,1992,kadhal_rojave.mp3
+Pudhu Vellai Mazhai,Roja,A.R. Rahman,Romantic,Low,Tamil,1992,pudhu_vellai_mazhai.mp3
+Chikku Bukku Rayile,Gentleman,A.R. Rahman,Energetic,High,Tamil,1993,chikku_bukku_rayile.mp3
+Kuchi Kuchi Rakkamma,Bombay,A.R. Rahman,Peppy,High,Tamil,1995,kuchi_kuchi_rakkamma.mp3
+Uyire Uyire,Bombay,A.R. Rahman,Romantic,Medium,Tamil,1995,uyire_uyire.mp3
+Kannalane,Bombay,A.R. Rahman,Romantic,Low,Tamil,1995,kannalane.mp3
+Mukkala Mukkabla,Kadhalan,A.R. Rahman,Energetic,High,Tamil,1994,mukkala_mukkabla.mp3
+Ennavale,Kadhalan,A.R. Rahman,Romantic,Medium,Tamil,1994,ennavale.mp3
+Anjali Anjali,Duet,A.R. Rahman,Romantic,Medium,Tamil,1994,anjali_anjali.mp3
+Thillana Thillana,Muthu,A.R. Rahman,Energetic,High,Tamil,1995,thillana_thillana.mp3
+Oruvan Oruvan Mudalali,Muthu,A.R. Rahman,Motivational,High,Tamil,1995,oruvan_oruvan_mudalali.mp3
+Mustafa Mustafa,Kadhal Desam,A.R. Rahman,Celebratory,High,Tamil,1996,mustafa_mustafa.mp3
+Vennilave Vennilave,Minsara Kanavu,A.R. Rahman,Romantic,Low,Tamil,1997,vennilave_vennilave.mp3
+Kannodu Kaanbadhellam,Jeans,A.R. Rahman,Romantic,Medium,Tamil,1998,kannodu_kaanbadhellam.mp3
+Munbe Vaa,Sillunu Oru Kaadhal,A.R. Rahman,Romantic,Low,Tamil,2006,munbe_vaa.mp3
+Hosanna,Vinnaithaandi Varuvaayaa,A.R. Rahman,Romantic,Medium,Tamil,2010,hosanna.mp3
+Mannipaaya,Vinnaithaandi Varuvaayaa,A.R. Rahman,Melancholic,Low,Tamil,2010,mannipaaya.mp3
+Arima Arima,Enthiran,A.R. Rahman,Energetic,High,Tamil,2010,arima_arima.mp3
+Nenjukulle,Kadal,A.R. Rahman,Soothing,Low,Tamil,2013,nenjukulle.mp3
+Ennodu Nee Irundhaal,I,A.R. Rahman,Romantic,Low,Tamil,2015,ennodu_nee_irundhaal.mp3
+Azhagiye,Kaatru Veliyidai,A.R. Rahman,Romantic,Low,Tamil,2017,azhagiye.mp3
+Vaseegara,Minnale,Harris Jayaraj,Romantic,Low,Tamil,2001,vaseegara.mp3
+Uyirin Uyire,Kaakha Kaakha,Harris Jayaraj,Romantic,Low,Tamil,2003,uyirin_uyire.mp3
+Ondra Renda,Kaakha Kaakha,Harris Jayaraj,Romantic,Medium,Tamil,2003,ondra_renda.mp3
+Oru Maalai,Ghajini,Harris Jayaraj,Romantic,Low,Tamil,2005,oru_maalai.mp3
+Suttum Vizhi,Ghajini,Harris Jayaraj,Romantic,Medium,Tamil,2005,suttum_vizhi.mp3
+Kadhal Yaanai,Anniyan,Harris Jayaraj,Romantic,Medium,Tamil,2005,kadhal_yaanai.mp3
+Kumari,Anniyan,Harris Jayaraj,Energetic,High,Tamil,2005,kumari.mp3
+Iyengaaru Veetu Azhage,Anniyan,Harris Jayaraj,Romantic,Medium,Tamil,2005,iyengaaru_veetu_azhage.mp3
+Mundhinam Paarthene,Vaaranam Aayiram,Harris Jayaraj,Romantic,Low,Tamil,2008,mundhinam_paarthene.mp3
+Adiye Kolluthey,Vaaranam Aayiram,Harris Jayaraj,Romantic,Medium,Tamil,2008,adiye_kolluthey.mp3
+Anjala,Vaaranam Aayiram,Harris Jayaraj,Energetic,High,Tamil,2008,anjala.mp3
+Vizhi Moodi Yosithaal,Ayan,Harris Jayaraj,Romantic,Low,Tamil,2009,vizhi_moodi_yosithaal.mp3
+Vaarayo Vaarayo,Aadhavan,Harris Jayaraj,Peppy,High,Tamil,2009,vaarayo_vaarayo.mp3
+Yamma Yamma,7aum Arivu,Harris Jayaraj,Melancholic,Low,Tamil,2011,yamma_yamma.mp3
+Mun Andhi,7aum Arivu,Harris Jayaraj,Romantic,Medium,Tamil,2011,mun_andhi.mp3
+Nenjil Nenjil,Engeyum Kaadhal,Harris Jayaraj,Romantic,Medium,Tamil,2011,nenjil_nenjil.mp3
+Google Google,Thuppakki,Harris Jayaraj,Peppy,High,Tamil,2012,google_google.mp3
+Antarctica,Thuppakki,Harris Jayaraj,Energetic,High,Tamil,2012,antarctica.mp3
+Urugudhe Marugudhe,Veyil,G.V. Prakash Kumar,Melancholic,Low,Tamil,2006,urugudhe_marugudhe.mp3
+Veyilodu Vilaiyaadi,Veyil,G.V. Prakash Kumar,Nostalgic,Medium,Tamil,2006,veyilodu_vilaiyaadi.mp3
+Pookal Pookum Tharunam,Madharasapattinam,G.V. Prakash Kumar,Romantic,Low,Tamil,2010,pookal_pookum_tharunam.mp3
+Vaama Duraiyamma,Madharasapattinam,G.V. Prakash Kumar,Folk,High,Tamil,2010,vaama_duraiyamma.mp3
+Aaruyire,Madharasapattinam,G.V. Prakash Kumar,Romantic,Low,Tamil,2010,aaruyire.mp3
+Maalai Neram,Aayirathil Oruvan,G.V. Prakash Kumar,Romantic,Medium,Tamil,2010,maalai_neram.mp3
+Un Mela Aasadhaan,Aayirathil Oruvan,G.V. Prakash Kumar,Folk,Medium,Tamil,2010,un_mela_aasadhaan.mp3
+Yathe Yathe,Aadukalam,G.V. Prakash Kumar,Romantic,Medium,Tamil,2011,yathe_yathe.mp3
+Otha Sollala,Aadukalam,G.V. Prakash Kumar,Folk,High,Tamil,2011,otha_sollala.mp3
+Vizhigalil Oru Vaanavil,Deiva Thirumagal,G.V. Prakash Kumar,Soothing,Low,Tamil,2011,vizhigalil_oru_vaanavil.mp3
+Aariraro,Deiva Thirumagal,G.V. Prakash Kumar,Emotional,Low,Tamil,2011,aariraro.mp3
+Pirai Thedum,Mayakkam Enna,G.V. Prakash Kumar,Romantic,Low,Tamil,2011,pirai_thedum.mp3
+Sengaade,Paradesi,G.V. Prakash Kumar,Melancholic,Low,Tamil,2013,sengaade.mp3
+Vaanganna Vanakkanganna,Thalaivaa,G.V. Prakash Kumar,Peppy,High,Tamil,2013,vaanganna_vanakkanganna.mp3
+Eena Meena Deeka,Theri,G.V. Prakash Kumar,Peppy,High,Tamil,2016,eena_meena_deeka.mp3
+Jithu Jilladi,Theri,G.V. Prakash Kumar,Peppy,High,Tamil,2016,jithu_jilladi.mp3
+En Jeevan,Theri,G.V. Prakash Kumar,Romantic,Low,Tamil,2016,en_jeevan.mp3
+Elay Keechaan,Asuran,G.V. Prakash Kumar,Folk,Medium,Tamil,2019,elay_keechaan.mp3
+Veyyon Silli,Soorarai Pottru,G.V. Prakash Kumar,Romantic,Low,Tamil,2020,veyyon_silli.mp3
+Kaattu Payale,Soorarai Pottru,G.V. Prakash Kumar,Folk,High,Tamil,2020,kaattu_payale.mp3
+Mannurunda,Soorarai Pottru,G.V. Prakash Kumar,Motivational,Medium,Tamil,2020,mannurunda.mp3
+Vandhenda Paalkaaran,Annaamalai,Deva,Energetic,High,Tamil,1992,vandhenda_paalkaaran.mp3
+Kondayil Thazhampoo,Annaamalai,Deva,Romantic,Medium,Tamil,1992,kondayil_thazhampoo.mp3
+Vetri Nichayam,Annaamalai,Deva,Motivational,High,Tamil,1992,vetri_nichayam.mp3
+Auto Karan,Baasha,Deva,Energetic,High,Tamil,1995,auto_karan.mp3
+Azhagu,Baasha,Deva,Romantic,Medium,Tamil,1995,azhagu.mp3
+Nee Nadandhaal,Baasha,Deva,Romantic,Medium,Tamil,1995,nee_nadandhaal.mp3
+Stylu Stylu,Baasha,Deva,Energetic,High,Tamil,1995,stylu_stylu.mp3
+Meenamma Meenamma,Aasai,Deva,Peppy,High,Tamil,1995,meenamma_meenamma.mp3
+Kaalamellam Kaadhal Vaazhga,Kaadhal Kottai,Deva,Romantic,Medium,Tamil,1996,kaalamellam_kaadhal_vaazhga.mp3
+Nalam Nalamariya Aaval,Kaadhal Kottai,Deva,Romantic,Low,Tamil,1996,nalam_nalamariya_aaval.mp3
+Athanda Ithanda,Arunachalam,Deva,Energetic,High,Tamil,1997,athanda_ithanda.mp3
+Megham Karukkudhu,Khushi,Deva,Romantic,Medium,Tamil,2000,megham_karukkudhu.mp3
